@@ -12,7 +12,7 @@
     "react-dom": "^17.0.2",
     "react-error-boundary": "^3.1.4",
     "react-scripts": "3.4.1",
-    "sass": "^1.51.0",
+    "sass": "^1.79.0",
     "zustand": "^4.1.4"
   },
   "devDependencies": {
